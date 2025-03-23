@@ -23,3 +23,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Sponsor
+
+If you appreciate my work, consider [sponsoring](https://github.com/sponsors/dasundev) ❤️ to help support its ongoing development. 
