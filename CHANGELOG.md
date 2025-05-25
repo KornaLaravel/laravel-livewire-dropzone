@@ -2,6 +2,14 @@
 
 This file records every version of `livewire-dropzone`.
 
+## v2.0.6 - 2025-05-25
+
+### What's Changed
+
+* chore(deps): bump league/commonmark from 2.6.1 to 2.7.0 by @dependabot in https://github.com/dasundev/livewire-dropzone/pull/73
+
+**Full Changelog**: https://github.com/dasundev/livewire-dropzone/compare/v2.0.5...v2.0.6
+
 ## 2.0.5 - 2025-05-22
 
 ### What's Changed
