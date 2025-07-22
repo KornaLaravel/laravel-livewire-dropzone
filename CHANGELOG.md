@@ -2,6 +2,14 @@
 
 This file records every version of `livewire-dropzone`.
 
+## v2.0.7 - 2025-07-22
+
+### What's Changed
+
+* chore(deps): bump livewire/livewire from 3.5.12 to 3.6.4 by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/74
+
+**Full Changelog**: https://github.com/dasundev/livewire-dropzone/compare/v2.0.6...v2.0.7
+
 ## v2.0.6 - 2025-05-25
 
 ### What's Changed
