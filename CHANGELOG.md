@@ -2,6 +2,18 @@
 
 This file records every version of `livewire-dropzone`.
 
+## v2.0.8 - 2026-01-15
+
+### What's Changed
+
+* chore(deps): upgrade livewire/livewire to version 4.0 by @schoenbergerb in https://github.com/dasundev/livewire-dropzone/pull/78
+
+### New Contributors
+
+* @schoenbergerb made their first contribution in https://github.com/dasundev/livewire-dropzone/pull/78
+
+**Full Changelog**: https://github.com/dasundev/livewire-dropzone/compare/v2.0.7...v2.0.8
+
 ## v2.0.7 - 2025-07-22
 
 ### What's Changed
