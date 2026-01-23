@@ -2,6 +2,15 @@
 
 This file records every version of `livewire-dropzone`.
 
+## v2.0.9 - 2026-01-23
+
+### What's Changed
+
+* chore(deps): bump symfony/http-foundation from 6.4.23 to 6.4.31 by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/79
+* chore(deps-dev): bump glob from 10.3.10 to 10.5.0 in /resources/js/livewire-dropzone-styles by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/76
+
+**Full Changelog**: https://github.com/dasundev/livewire-dropzone/compare/v2.0.8...v2.0.9
+
 ## v2.0.8 - 2026-01-15
 
 ### What's Changed
