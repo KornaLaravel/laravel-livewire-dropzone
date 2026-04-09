@@ -2,6 +2,16 @@
 
 This file records every version of `livewire-dropzone`.
 
+## v2.0.10 - 2026-04-09
+
+### What's Changed
+
+* chore(deps-dev): bump phpunit/phpunit from 9.6.21 to 9.6.34 by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/80
+* chore(deps-dev): bump psy/psysh from 0.12.4 to 0.12.19 by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/82
+* chore(deps-dev): bump picomatch from 2.3.1 to 2.3.2 in /resources/js/livewire-dropzone-styles by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/86
+
+**Full Changelog**: https://github.com/dasundev/livewire-dropzone/compare/v2.0.9...v2.0.10
+
 ## v2.0.9 - 2026-01-23
 
 ### What's Changed
