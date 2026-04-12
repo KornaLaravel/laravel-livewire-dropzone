@@ -2,6 +2,16 @@
 
 This file records every version of `livewire-dropzone`.
 
+## v2.0.11 - 2026-04-12
+
+### What's Changed
+
+* chore(deps): bump league/commonmark from 2.7.0 to 2.8.2 by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/85
+* chore(deps-dev): bump minimatch from 9.0.5 to 9.0.9 in /resources/js/livewire-dropzone-styles by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/83
+* chore(deps): bump symfony/process from 6.4.20 to 6.4.33 by @dependabot[bot] in https://github.com/dasundev/livewire-dropzone/pull/81
+
+**Full Changelog**: https://github.com/dasundev/livewire-dropzone/compare/v2.0.10...v2.0.11
+
 ## v2.0.10 - 2026-04-09
 
 ### What's Changed
